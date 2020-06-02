@@ -1,2 +1,5 @@
 # pose-visualization
-Drawing human skeleton frame
+Drawing 2d human skeleton frame
+
+## TODO
+- [ ] add 3d support
